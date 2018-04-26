@@ -1,0 +1,5 @@
+c:\git\BMICount\BMICount\bin\Debug\BMICount.exe.config
+c:\git\BMICount\BMICount\bin\Debug\BMICount.exe
+c:\git\BMICount\BMICount\bin\Debug\BMICount.pdb
+c:\git\BMICount\BMICount\obj\Debug\BMICount.exe
+c:\git\BMICount\BMICount\obj\Debug\BMICount.pdb
